@@ -1,8 +1,6 @@
 {
   "versionCode": 1,
   "versionName": "0.0.0.4 - DEV",
-  "content": "#1. update apps",
-  "minSupport": 1,
   "url": "",
-  "isMaintenance": false
+  "isMaintenance": true
 }
