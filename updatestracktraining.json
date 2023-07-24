@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
+  "versionCode": 43,
   "versionName": "1.0.8.0 - TRAINING",
   "content": "#1. update apps",
-  "minSupport": 42,
+  "minSupport": 43,
   "url": "https://andro.strack.id/files/strack-training-1080.apk",
   "isMaintenance": false
 }
