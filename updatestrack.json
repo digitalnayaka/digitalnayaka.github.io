@@ -4,5 +4,5 @@
   "content": "#1. update apps",
   "minSupport": 45,
   "url": "https://andro.strack.id/files/strack-prod-1080.apk",
-  "isMaintenance": true
+  "isMaintenance": false
 }
