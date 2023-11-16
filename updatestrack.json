@@ -1,8 +1,8 @@
 {
-  "versionCode": 54,
-  "versionName": "1.0.9.0",
+  "versionCode": 57,
+  "versionName": "1.0.9.3",
   "content": "#1. update apps",
-  "minSupport": 54,
-  "url": "https://andro.strack.id/files/strack-prod-1090.apk",
-  "isMaintenance": false
+  "minSupport": 57,
+  "url": "https://andro.strack.id/files/strack-prod-1093.apk",
+  "isMaintenance": true
 }
