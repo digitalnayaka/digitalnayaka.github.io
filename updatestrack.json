@@ -2,7 +2,7 @@
   "versionCode": 60,
   "versionName": "1.0.9.6",
   "content": "#1. update apps",
-  "minSupport": 60
+  "minSupport": 60,
   "url": "https://andro.strack.id/files/strack-prod-1096.apk",
   "isMaintenance": true
 }
