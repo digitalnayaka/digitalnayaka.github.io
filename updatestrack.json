@@ -1,8 +1,8 @@
 {
-  "versionCode": 67,
+  "versionCode": 68,
   "versionName": "1.1.2.3",
   "content": "#1. update apps",
-  "minSupport": 67,
+  "minSupport": 68,
   "url": "https://andro.strack.id/files/strack-prod-1123.apk",
-  "isMaintenance": true
+  "isMaintenance": false
 }
