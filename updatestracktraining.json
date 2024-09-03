@@ -1,8 +1,8 @@
 {
-  "versionCode": 75,
-  "versionName": "1.1.2.11 - TRAINING",
+  "versionCode": 76,
+  "versionName": "1.1.2.12 - TRAINING",
   "content": "#1. update apps",
-  "minSupport": 75,
-  "url": "https://andro.strack.id/files/strack-training-11211.apk",
+  "minSupport": 76,
+  "url": "https://andro.strack.id/files/strack-training-11212.apk",
   "isMaintenance": false
 }
