@@ -1,8 +1,8 @@
 {
-  "versionCode": 81,
-  "versionName": "1.1.2.18",
+  "versionCode": 82,
+  "versionName": "1.1.2.19",
   "content": "#1. update apps",
-  "minSupport": 81,
-  "url": "https://andro.strack.id/files/strack-prod-11218.apk",
+  "minSupport": 82,
+  "url": "https://andro.strack.id/files/strack-prod-11219.apk",
   "isMaintenance": false
 }
